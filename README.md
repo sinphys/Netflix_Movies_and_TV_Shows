@@ -127,7 +127,7 @@ You identified **22 unique genres**. Here's a quick look at the **top 10**:
 
 🧠 **Insight**: Netflix has a strong focus on **international content** and **drama/comedy-based series**, aligning with global viewership trends.
 
-<img title="" src="file://./Figs/tv-show-genres.png" alt="" width="720">
+![](./Figs/tv-show-genres.png)
 
 ![](./Figs/movie-genres.png)
 

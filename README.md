@@ -159,4 +159,4 @@ TV Mature Adults (TV-MA) is the major rating for most of the genres. Second to t
 
 ![](/media/sina/Sina/Yandex_sync/Academia/sci_codes/python/Kaggle/Netflix_Movies_and_TV_Shows/Figs/TV%20Show%20Genre%20Frequency%20by%20Country%20of%20Origin.png)
 
-![Movie Genre Frequency by Country of Origin.png](/media/sina/Sina/Yandex_sync/Academia/sci_codes/python/Kaggle/Netflix_Movies_and_TV_Shows/Figs/Movie%20Genre%20Frequency%20by%20Country%20of%20Origin.png)
+![Movie Genre Frequency by Country of Origin.png](./Figs/Movie%20Genre%20Frequency%20by%20Country%20of%20Origin.png)

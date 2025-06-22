@@ -127,36 +127,36 @@ You identified **22 unique genres**. Here's a quick look at the **top 10**:
 
 🧠 **Insight**: Netflix has a strong focus on **international content** and **drama/comedy-based series**, aligning with global viewership trends.
 
-<img title="" src="file:///media/sina/Sina/Yandex_sync/Academia/sci_codes/python/Kaggle/Netflix_Movies_and_TV_Shows/Figs/tv-show-genres.png" alt="" width="720">
+<img title="" src="file://./Figs/tv-show-genres.png" alt="" width="720">
 
-![](/media/sina/Sina/Yandex_sync/Academia/sci_codes/python/Kaggle/Netflix_Movies_and_TV_Shows/Figs/movie-genres.png)
+![](./Figs/movie-genres.png)
 
-![](/media/sina/Sina/Yandex_sync/Academia/sci_codes/python/Kaggle/Netflix_Movies_and_TV_Shows/Figs/tv-show-countries.png)
+![](./Figs/tv-show-countries.png)
 
-![](/media/sina/Sina/Yandex_sync/Academia/sci_codes/python/Kaggle/Netflix_Movies_and_TV_Shows/Figs/movie-countries.png)
+![](./Figs/movie-countries.png)
 
 
 
 It can be seen that most of TV Show have ended in 1st season.
 
-![](/media/sina/Sina/Yandex_sync/Academia/sci_codes/python/Kaggle/Netflix_Movies_and_TV_Shows/Figs/tv-show-by-season-number.png)
+![](./Figs/tv-show-by-season-number.png)
 
 
 
 TV Mature Adults (TV-MA) is the major rating for most of the genres. Second to that is TV-14.
 
-![](/media/sina/Sina/Yandex_sync/Academia/sci_codes/python/Kaggle/Netflix_Movies_and_TV_Shows/Figs/Genre%20Frequency%20by%20TV%20Show%20Rating.png)
+![](./Figs/Genre%20Frequency%20by%20TV%20Show%20Rating.png)
 
 
 
 
 
-![](/media/sina/Sina/Yandex_sync/Academia/sci_codes/python/Kaggle/Netflix_Movies_and_TV_Shows/Figs/Genre%20Frequency%20by%20Movie%20Rating.png)
+![](./Figs/Genre%20Frequency%20by%20Movie%20Rating.png)
 
 
 
 
 
-![](/media/sina/Sina/Yandex_sync/Academia/sci_codes/python/Kaggle/Netflix_Movies_and_TV_Shows/Figs/TV%20Show%20Genre%20Frequency%20by%20Country%20of%20Origin.png)
+![](./Figs/TV%20Show%20Genre%20Frequency%20by%20Country%20of%20Origin.png)
 
 ![Movie Genre Frequency by Country of Origin.png](./Figs/Movie%20Genre%20Frequency%20by%20Country%20of%20Origin.png)

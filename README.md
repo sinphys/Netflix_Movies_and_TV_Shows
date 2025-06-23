@@ -93,17 +93,15 @@
 | 2019 | 633   |
 | 2020 | 517   |
 
-**Observation**: There's a noticeable decrease in Netflix content releases around the years that COVID started. 
+**📉 Observation**: A noticeable dip in content releases is seen post-2020, likely due to the COVID-19 pandemic.
 
 ---
 
 ### 🎭 **TV Show and Movie Genre Analysis**
 
-You identified **22 unique genres**. Here's a quick look at the **top 10**:
+- **22 unique genres** identified.
 
-
-
-🧠 **Insight**: Netflix has a strong focus on **international content** and **drama/comedy-based series and movies**, aligning with global viewership trends.
+- 🧠 Insight: Netflix leans heavily into international and drama/comedy-oriented content, aligning with global demand trends.
 
 ![](./Figs/tv-show-genres.png)
 
@@ -111,9 +109,9 @@ You identified **22 unique genres**. Here's a quick look at the **top 10**:
 
 ---
 
-### Countries contribution in Netflix TV Shows and Movies
+### 🌍 Countries contribution in Netflix TV Shows and Movies
 
-US is top leading producer in both TV Shows and movies. 
+- The **United States** is the top content producer for both TV Shows and Movies.
 
 ![](./Figs/tv-show-countries.png)
 
@@ -121,15 +119,15 @@ US is top leading producer in both TV Shows and movies.
 
 ---
 
-It can be seen that most of TV Show have ended in **1st season**.
+### 📈 **TV Shows by Number of Seasons**
 
-
+- A large portion of TV Shows consist of only **1 season**, suggesting either mini-series format or early cancellation trends.
 
 ![](./Figs/tv-show-by-season-number.png)
 
-### Genre frequency by TV Shows and Movies rating
+### 🎞️ **Genre Frequency by Rating**
 
-TV Mature Adults (TV-MA) is the major rating for most of the genres. Second to that is TV-14.
+- **TV-MA** is the most prevalent rating across genres, followed by **TV-14**.
 
 ![](./Figs/Genre%20Frequency%20by%20TV%20Show%20Rating.png)
 
@@ -137,9 +135,9 @@ TV Mature Adults (TV-MA) is the major rating for most of the genres. Second to t
 
 ---
 
-### Genre frequency by TV Shows and Movies origin country
+### 🌎 Genre Frequency by Country of Origin
 
-
+- While visualizations show some consistent trends in genre popularity across countries, they also reveal distinct genre preferences unique to each country for both TV Shows and Movies.
 
 ![](./Figs/TV%20Show%20Genre%20Frequency%20by%20Country%20of%20Origin.png)
 

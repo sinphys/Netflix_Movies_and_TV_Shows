@@ -71,72 +71,75 @@
 | 2020 | 953             |
 | 2016 | 902             |
 
-
-
 ---
 
 ### 📺 **TV Shows: Top 5 Release Years**
 
 | Year | Count |
 | ---- | ----- |
-| 2020 | 436   |
-| 2019 | 397   |
-| 2018 | 380   |
-| 2021 | 315   |
 | 2017 | 265   |
-
----
+| 2018 | 380   |
+| 2019 | 397   |
+| 2020 | 436   |
+| 2021 | 315   |
 
 ### 🎬 **Movies: Top 5 Release Years**
 
 | Year | Count |
 | ---- | ----- |
+| 2016 | 658   |
 | 2017 | 767   |
 | 2018 | 767   |
-| 2016 | 658   |
 | 2019 | 633   |
 | 2020 | 517   |
 
-**Observation**: There's a noticeable **peak in Netflix content releases from 2016 to 2020**, likely due to the global expansion of streaming services and increased original productions.
+**Observation**: There's a noticeable decrease in Netflix content releases around the years that COVID started. 
 
 ---
 
-### 🎭 **TV Show Genre Analysis**
+### 🎭 **TV Show and Movie Genre Analysis**
 
 You identified **22 unique genres**. Here's a quick look at the **top 10**:
 
-| Genre                  | Count |
-| ---------------------- | ----- |
-| International TV Shows | 1351  |
-| TV Dramas              | 763   |
-| TV Comedies            | 581   |
-| Crime TV Shows         | 470   |
-| Kids' TV               | 451   |
-| Docuseries             | 395   |
-| Romantic TV Shows      | 370   |
-| Reality TV             | 255   |
-| British TV Shows       | 253   |
-| Anime Series           | 176   |
 
-🧠 **Insight**: Netflix has a strong focus on **international content** and **drama/comedy-based series**, aligning with global viewership trends.
+
+🧠 **Insight**: Netflix has a strong focus on **international content** and **drama/comedy-based series and movies**, aligning with global viewership trends.
 
 ![](./Figs/tv-show-genres.png)
 
 ![](./Figs/movie-genres.png)
 
+---
+
+### Countries contribution in Netflix TV Shows and Movies
+
+US is top leading producer in both TV Shows and movies. 
+
 ![](./Figs/tv-show-countries.png)
 
 ![](./Figs/movie-countries.png)
 
-It can be seen that most of TV Show have ended in 1st season.
+---
+
+It can be seen that most of TV Show have ended in **1st season**.
+
+
 
 ![](./Figs/tv-show-by-season-number.png)
+
+### Genre frequency by TV Shows and Movies rating
 
 TV Mature Adults (TV-MA) is the major rating for most of the genres. Second to that is TV-14.
 
 ![](./Figs/Genre%20Frequency%20by%20TV%20Show%20Rating.png)
 
 ![](./Figs/Genre%20Frequency%20by%20Movie%20Rating.png)
+
+---
+
+### Genre frequency by TV Shows and Movies origin country
+
+
 
 ![](./Figs/TV%20Show%20Genre%20Frequency%20by%20Country%20of%20Origin.png)
 

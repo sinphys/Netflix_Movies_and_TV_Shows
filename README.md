@@ -71,14 +71,7 @@
 | 2020 | 953             |
 | 2016 | 902             |
 
----
 
-### 🎥 **Content Type Breakdown**
-
-| Type    | Count |
-| ------- | ----- |
-| Movie   | 6131  |
-| TV Show | 2676  |
 
 ---
 
@@ -135,27 +128,15 @@ You identified **22 unique genres**. Here's a quick look at the **top 10**:
 
 ![](./Figs/movie-countries.png)
 
-
-
 It can be seen that most of TV Show have ended in 1st season.
 
 ![](./Figs/tv-show-by-season-number.png)
-
-
 
 TV Mature Adults (TV-MA) is the major rating for most of the genres. Second to that is TV-14.
 
 ![](./Figs/Genre%20Frequency%20by%20TV%20Show%20Rating.png)
 
-
-
-
-
 ![](./Figs/Genre%20Frequency%20by%20Movie%20Rating.png)
-
-
-
-
 
 ![](./Figs/TV%20Show%20Genre%20Frequency%20by%20Country%20of%20Origin.png)
 
